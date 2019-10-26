@@ -1,0 +1,40 @@
+.player {
+    display: inline-block;
+    width: 300px;
+    height: 280px;
+    border: 2px solid #000;
+    padding: x;
+
+}
+
+button {
+    width: 620px;
+    padding: 10px;
+    border: none;
+    font-size: 15px;
+    border: 1px solid rgb(201, 197, 197);
+    background-color: #fff;
+}
+
+.game-screen {
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.heading {
+    text-align: center;
+    width: 600px;
+}
+
+.dice {
+    /* width: 150px;
+    height: 150px;
+    border: 2px solid #000;
+    border-radius: 10px;
+    margin-left: 10px;*/
+    margin-top: -50px;
+    font-size: 200px;
+    text-align: center;
+    font-weight: 100;
+
+}
